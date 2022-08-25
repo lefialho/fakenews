@@ -1,24 +1,22 @@
-# app
+# Portal de notícias #fakenews
+Criado com propósito de estudar o VUE.js a aplicação faz uma requisição na api de notícias News API: https://newsapi.org/docs e mostra as mesmas na tela 
+para serem acessadas.
 
-## Project setup
+## Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila e roda o projeto em desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minifica para produção
 ```
 npm run build
 ```
+**Obs:** Só funciona corretamente em ambiente de desenvolvimento, pois a api não libera as chaves para produção 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Link da aplicação em produção
+https://fakenews-mocha.vercel.app/
