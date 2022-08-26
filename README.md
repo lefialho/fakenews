@@ -1,5 +1,5 @@
 # Portal de notícias #fakenews
-Criado com propósito de estudar o VUE.js a aplicação faz uma requisição na api de notícias News API: https://newsapi.org/docs e mostra as mesmas na tela 
+Criado com propósito de estudar o VUE.js, a aplicação faz uma requisição na api de notícias News API: https://newsapi.org/docs e mostra as mesmas na tela 
 para serem acessadas.
 
 ## Setup do projeto
