@@ -9,7 +9,7 @@ npm install
 
 ### Compila e roda o projeto em desenvolvimento
 ```
-npm run serve
+Abrir a past app no terminal e rodar npm run serve
 ```
 
 ### Compila e minifica para produção
